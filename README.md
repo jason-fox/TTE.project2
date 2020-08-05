@@ -6,7 +6,7 @@
 [![Documentation badge](https://img.shields.io/readthedocs/&lt;org&gt;-&lt;project&gt;.svg)](http://<org>-<project>.readthedocs.io/en/latest/?badge=latest)
 [![Build badge](https://img.shields.io/travis/ramp-eu/TTE.project2.svg)](https://travis-ci.org/ramp-eu/TTE.project2/)
 [![Coverage Status](https://coveralls.io/repos/github/ramp-eu/TTE.project2/badge.svg?branch=master)](https://coveralls.io/github/ramp-eu/TTE.project2?branch=master)
-
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4188/badge)](https://bestpractices.coreinfrastructure.org/projects/4188)
 
 ```
 
