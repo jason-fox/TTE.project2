@@ -3,18 +3,32 @@
 [![License: MIT](https://img.shields.io/github/license/ramp-eu/TTE.project2.svg)](https://opensource.org/licenses/MIT)
 [![Docker badge](https://img.shields.io/docker/pulls/ramp-eu/TTE.project2.svg)](https://hub.docker.com/r/<org>/<repo>/)
 <br/>
-[![Documentation badge](https://img.shields.io/readthedocs/&lt;org&gt;-&lt;project&gt;.svg)](http://<org>-<project>.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/tte-project2/badge/?version=latest)](https://tte-project2.readthedocs.io/en/latest/?badge=latest)
 [![Build badge](https://img.shields.io/travis/ramp-eu/TTE.project2.svg)](https://travis-ci.org/ramp-eu/TTE.project2/)
 [![Coverage Status](https://coveralls.io/repos/github/ramp-eu/TTE.project2/badge.svg?branch=master)](https://coveralls.io/github/ramp-eu/TTE.project2?branch=master)
+[![Codacy grade](https://img.shields.io/codacy/grade/99310c5c4332439197633912a99d2e3c)](https://app.codacy.com/manual/jason-fox/TTE.project2)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4188/badge)](https://bestpractices.coreinfrastructure.org/projects/4188)
 
-```
+```text
 
 The Badges above demonstrate testing, code coverage
 and commitment to coding standards (since the code is linted on commit).
 
 The links need to be amended to point to the correct repo.
+
+Sign up for:
+
+- CI Test system - e.g. Travis
+- A Documentation website - e.g. ReadTheDocs
+- Static Code Analysis tool - e.g. Codacy
+- CII Best Practices https://bestpractices.coreinfrastructure.org
+
+Only CII Best Practices (and its badge) is mandatory. Any equivalent public automated tools for the other three may be used.
+
+Note that the CII Best Practices questionaire will request evidence of tooling used.
+
 ```
+
 
 
 ```
